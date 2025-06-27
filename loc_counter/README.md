@@ -2,6 +2,8 @@
 
 A fairly simple program that takes in files as command line arguments and outputs the total number of lines, code, comments, and blanks in the files.
 
+This is Challenge #92 and can be found [here](https://codingchallenges.substack.com/p/coding-challenge-92-loc-counter)
+
 ## Usage
 
 ```
